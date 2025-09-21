@@ -1,0 +1,14 @@
+C:\Users\Rewan\source\repos\SimpleExam\SimpleExam\obj\Debug\net8.0\SimpleExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rewan\source\repos\SimpleExam\SimpleExam\obj\Debug\net8.0\SimpleExam.AssemblyInfoInputs.cache
+C:\Users\Rewan\source\repos\SimpleExam\SimpleExam\obj\Debug\net8.0\SimpleExam.AssemblyInfo.cs
+C:\Users\Rewan\source\repos\SimpleExam\SimpleExam\obj\Debug\net8.0\SimpleExam.csproj.CoreCompileInputs.cache
+C:\Users\Rewan\source\repos\SimpleExam\SimpleExam\bin\Debug\net8.0\SimpleExam.exe
+C:\Users\Rewan\source\repos\SimpleExam\SimpleExam\bin\Debug\net8.0\SimpleExam.deps.json
+C:\Users\Rewan\source\repos\SimpleExam\SimpleExam\bin\Debug\net8.0\SimpleExam.runtimeconfig.json
+C:\Users\Rewan\source\repos\SimpleExam\SimpleExam\bin\Debug\net8.0\SimpleExam.dll
+C:\Users\Rewan\source\repos\SimpleExam\SimpleExam\bin\Debug\net8.0\SimpleExam.pdb
+C:\Users\Rewan\source\repos\SimpleExam\SimpleExam\obj\Debug\net8.0\SimpleExam.dll
+C:\Users\Rewan\source\repos\SimpleExam\SimpleExam\obj\Debug\net8.0\refint\SimpleExam.dll
+C:\Users\Rewan\source\repos\SimpleExam\SimpleExam\obj\Debug\net8.0\SimpleExam.pdb
+C:\Users\Rewan\source\repos\SimpleExam\SimpleExam\obj\Debug\net8.0\SimpleExam.genruntimeconfig.cache
+C:\Users\Rewan\source\repos\SimpleExam\SimpleExam\obj\Debug\net8.0\ref\SimpleExam.dll
